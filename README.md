@@ -1,4 +1,1 @@
-# iamhonzaeu.github.io
-
-
-EYOOO začínam dělat web
+WEB serveru ts.iamhonza.eu
